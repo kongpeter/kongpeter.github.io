@@ -33,4 +33,16 @@ This assignment will focus on two technologies:
 
 All communication will take place via sockets. These sockets can be either **TCP(Connection-Oriented)** or **UDP(Connectionless)**. Thus, in this project, I am goind to use **TCP** for its reliable connection.
 
-The data format will be **JSON**
+The data format will be **JSON**.
+
+
+
+## 4. Function
+
+### 4.1 Query the meaning(s) of a given word
+
+The client should implement a function that is used to query the dictionary with the following minimum input and output. 
+
+- **Input**: Target word to query.
+- **Output:** The meaning of target word.
+- **Error:** The target word is not in the dictionary or an error occur. 
