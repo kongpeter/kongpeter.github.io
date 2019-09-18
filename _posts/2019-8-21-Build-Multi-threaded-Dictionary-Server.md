@@ -8,7 +8,7 @@ header-img: img/computer-coffee.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags: 							#标签
     - Java
-    - JavaFx
+    - JavaSwing
 ---
 
 ## 1. Introduction
